@@ -1,0 +1,5 @@
+Exchange-MgmtShell
+
+get-addresslist | update-addresslist   
+get-globaladdresslist | update-globaladdresslist  
+get-offlineaddressbook | update-offlineaddressbook  
